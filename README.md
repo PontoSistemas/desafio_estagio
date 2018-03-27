@@ -29,7 +29,11 @@ Segue abaixo algumas imagens como sugestão.
 
 Você tem liberdade de desenvolve-lo como bem entender.
 
+Os dados podem ser salvos em um banco de dados, um arquivo, localstorage.
+
 Em caso de dúvidas entre em contato com adronilson@pontosistemas.com.br
+
+OBS: ENVIAR UM BREVE TUTORIAL DE COMO INSTALAR / UTILIZAR A APLICAÇÃO
 
 ## Critérios de Avaliação
 
@@ -37,6 +41,13 @@ Em caso de dúvidas entre em contato com adronilson@pontosistemas.com.br
 - Semântica
 - Decisões Técnicas
 - Ferramentas Utilizadas
+
+
+## Formas de Entrega
+
+- E-mail
+- Pull Request
+- Link Repositório
 
 ## Tecnologias que utilizamos na Ponto Sistemas
 
