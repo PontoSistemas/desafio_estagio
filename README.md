@@ -1,4 +1,4 @@
-# Desafio Estagio Front-end da Ponto Sistemas
+# Desafio Estagio da Ponto Sistemas
 
 ## A Vaga
 Para se candidatar:  
