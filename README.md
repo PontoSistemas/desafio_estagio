@@ -21,11 +21,11 @@ Segue abaixo algumas imagens como sugestão.
 
 - Lista de Usuários
 
-![Lista Usuarios](imgs/Tela de Listagem.png)
+![Lista Usuarios](img/Tela de Listagem.png)
 
 -Cadastro de Usuários
 
-![Cadastro Usuario](imgs/Tela de Cadastro.png)
+![Cadastro Usuario](img/Tela de Cadastro.png)
 
 Você tem liberdade de desenvolve-lo como bem entender.
 
